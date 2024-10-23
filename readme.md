@@ -9,7 +9,7 @@
 
 ## ③ アプリのデプロイ URL
 
-[デプロイしている場合は URL を記入（任意）](https://masayoshi1111.github.io/Cheese-ACADEMY/)
+https://masvc.github.io/Cheese-ACADEMY/
 
 ## ④ アプリのログイン用 ID または Password（ある場合）
 
